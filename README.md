@@ -1,2 +1,4 @@
 # Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+My Article: [Is AI in software engineering reaching an 'Oppenheimer moment'? Here's what you need to know](https://www.zdnet.com/article/is-ai-in-software-engineering-reaching-an-oppenheimer-moment-heres-what-you-need-to-know/).
+
+The article covers software engineering and AI, explaining their roles, differences, applications, and ethical challenges. It defines software engineering as creating reliable software, contrasts it with traditional programming, and discusses AI's data-driven decision-making. AI's potential in suggesting optimizations and identifying bugs is noted, along with ethical considerations. The responsibility of software engineers in guiding AI's growth and ensuring ethical behavior is highlighted. It also reflects on AI's impact, urging continuous learning and ethical considerations on how much we should rely on it.
